@@ -3,7 +3,7 @@
 this tutorial based on documentation in this link https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html#running-airflow-in-docker
 
 ## Data in PostgresSQL
-(docs/postgresssql.png)
+![PostgresSQL UI](docs/postgresssql.png)
 
-## Airflow DAGS
-(docs/airflow.png)
+## Airflow UI
+![Airflow Webserver UI](docs/airflow.png)
